@@ -1,0 +1,5 @@
+streamlit>=1.45
+pandas
+openai>=1.50
+python-dotenv
+jiwer
